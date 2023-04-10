@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hirak214@gmail.com**
 
-- ⚡ Fun fact **Anything can be automated with enough will**
+- ⚡ Fun fact: **Anything can be automated with enough will**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
