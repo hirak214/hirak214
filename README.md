@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hirak Desai</h1>
+<h1 align="center">Hi, I'm Hirak Desai</h1>
 <h3 align="center">Student, Developer, Tech-Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirak214&label=Profile%20views&color=0e75b6&style=flat" alt="hirak214" /> </p>
