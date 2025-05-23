@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirak214" alt="hirak214" /></a> </p>
 
-- 🔭 I’m currently working on [Light Automation](https://github.com/DiyaHirani/light_automation)
+- 🔭 I’m currently a Masters student at USC
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **FAISS**
 
 - 👨‍💻 All of my projects are available at [github.com/hirak214](github.com/hirak214)
 
-- 💬 Ask me about **Python, Flask, MicroProcessors**
+- 💬 Ask me about **RAG, LLMS, MicroProcessors**
 
 - 📫 How to reach me **hirak214@gmail.com**
 
