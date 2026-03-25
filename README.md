@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/hirak214](https://github.com/hirak214)
 
-- 📫 How to reach me: **hirak214@gmail.com**
+- 📫 How to reach me: **hirak@oximy.com** or **hirak.desai@usc.edu**
 
 - ⚡ Fun fact: **Built an electric car at 15**
 
